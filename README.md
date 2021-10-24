@@ -5,7 +5,7 @@
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Specifically, they are F-K score and F-K grade level<br/>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;source code: https://github.com/cdimascio/py-readability-metrics<br/>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Input: a string that contains the content to be assessed<br/>
-> Credibility scores are currently generated manually, but can be automated based on a deep learning model detailed by another member in the team:
+> Credibility scores are currently generated manually, but can be automated based on a deep learning model detailed by another member in the team:<br/>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;See: https://github.com/dominicyu04/Hackthon
 
 ## Modules Provided
