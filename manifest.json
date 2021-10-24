@@ -1,0 +1,11 @@
+{
+    "name": "CounterRx Scoring",
+    "description": "Scores credibility and readability of website",
+    "version": "1.0",
+    "manifest_version": 2,
+    "browser_action": {
+      "default_popup": "learning.html"
+    },
+    "permissions": ["activeTab"]
+  }
+  
